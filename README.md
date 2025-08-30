@@ -5,12 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jferris90" alt="jferris90" /></a> </p>
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **React Native** as I continue to expand my skills and knowledgebase as a developer
 
 - 📫 How to reach me **ferrisdev89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  -Find my portfolio at Jarrettferris.dev
+  -Connect with me on LinkedIn at www.linkedin.com/in/jarrett-ferris-dev89
+  -Send me an email to the address provided above
+</p>
+
+<h3 align="left">About me:</h3>
+<p align="left">
+  I’ve always been curious about how things work. Growing up in Washington with three siblings, I spent as much time with books and computers as I did playing sports or tinkering with whatever caught my interest. That curiosity never left—it grew into a passion for building, problem-solving, and constantly learning new things.
+Over the years, that path has taken me through some very different but connected experiences: building AI-powered platforms as a frontend engineer, running my own home inspection business where I had to wear every hat, and working in sales and procurement, where I learned how much clear communication and trust can shape strong relationships. Each step taught me something new about people, systems, and how to create solutions that really make a difference.
+My academic background in Philosophy, Psychology, and Sociology has shaped the way I think about both technology and teamwork. It reminds me that behind every system or process, there are people—and that the real goal of what I build is to make life easier, smarter, or more meaningful for them.
+What motivates me most is the chance to create things that last. Whether it’s a seamless user experience, a streamlined workflow, or helping someone make a confident decision, I’m driven by the idea that curiosity, persistence, and empathy are the keys to building things that truly matter.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
