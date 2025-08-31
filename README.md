@@ -12,8 +12,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   -Find my portfolio at Jarrettferris.dev
+</br>
   -Connect with me on LinkedIn at www.linkedin.com/in/jarrett-ferris-dev89
+</br>
   -Send me an email to the address provided above
+</br>
 </p>
 
 <h3 align="left">About me:</h3>
@@ -29,22 +32,22 @@ What motivates me most is the chance to create things that last. Whether it’s 
 
 <h3 align="left">Soft Skills:</h3>
 <p align="left">
-  -Creative/ Collaborative problem solving
-  -Time management
-  -Technical writing
-  -Customer service/ support
-  -Adaptability
-  -Effective communication
-  -Versatility
-  -Project management
-  -Open-minded
-  -Fast learner
-  -Conflict management/ resolution
-  -Logical reasoning
-  -Troubleshooting
-  -Accountability
-  -Integrity
-  -Critical thinking
-  -Resourcefulness
-  -Tactfulness
+  - Creative/ Collaborative problem solving
+  - Time management
+  - Technical writing
+  - Customer service/ support
+  - Adaptability
+  - Effective communication
+  - Versatility
+  - Project management
+  - Open-minded
+  - Fast learner
+  - Conflict management/ resolution
+  - Logical reasoning
+  - Troubleshooting
+  - Accountability
+  - Integrity
+  - Critical thinking
+  - Resourcefulness
+  - Tactfulness
 </p>
